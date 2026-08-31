@@ -8,7 +8,7 @@ I like building things that actually get used. Not tutorials, not toy projects s
 
 ### 🚀 What I'm currently working on
 
-**[Spec Kit Extension](https://github.com/abir-ommezzine/extension-github-spec-kit)** — a 6-agent LangGraph pipeline that turns raw Markdown specs into formatted PDF documentation with auto-generated diagrams. Built during my AI Engineering internship at Talan Tunisia.
+**[Spec Kit Extension](https://github.com/abir-ommezzine/extension-github-spec-kit)** : a 6-agent LangGraph pipeline that turns raw Markdown specs into formatted PDF documentation with auto-generated diagrams. Built during my AI Engineering internship at Talan Tunisia.
 → **Accepted into GitHub Spec Kit's official community catalog** : now listed and distributed as part of the tool's supported ecosystem.
 
 Also: benchmarking agentic dev frameworks (Spec Kit, BMAD, SAFe Agentic Workflow) for production adoption, and building a provider-agnostic LLM abstraction layer (Ollama, NVIDIA NIM, OpenAI, Anthropic, Groq).
