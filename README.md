@@ -20,11 +20,11 @@ Also: benchmarking agentic dev frameworks (Spec Kit, BMAD, SAFe Agentic Workflow
 ### 🛠️ A few things I've built
 
 <p align="left">
-<a href="https://github.com/abir-ommezzine/extension-github-spec-kit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-ommezzine&repo=extension-github-spec-kit&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/abir-ommezzine/stock_market_dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-ommezzine&repo=stock_market_dashboard&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/abir-ommezzine/extension-github-spec-kit"><img src="https://github-readme-stats-liard-gamma-86.vercel.app/api/pin/?username=abir-ommezzine&repo=extension-github-spec-kit&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/abir-ommezzine/stock_market_dashboard"><img src="https://github-readme-stats-liard-gamma-86.vercel.app/api/pin/?username=abir-ommezzine&repo=stock_market_dashboard&theme=tokyonight&hide_border=true" /></a>
 </p>
 <p align="left">
-<a href="https://github.com/soltan-mohamed/SourcingAppTalan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=soltan-mohamed&repo=SourcingAppTalan&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/soltan-mohamed/SourcingAppTalan"><img src="https://github-readme-stats-liard-gamma-86.vercel.app/api/pin/?username=soltan-mohamed&repo=SourcingAppTalan&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 - **AI Chatbot for ENSI Robotics Club** — RAG-powered chatbot over internal docs, using LangChain + ChromaDB ([repo](https://github.com/abir-ommezzine/Chatbot-ARE-Association-Robotique-ENSI))
@@ -51,8 +51,8 @@ Also: benchmarking agentic dev frameworks (Spec Kit, BMAD, SAFe Agentic Workflow
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abir-ommezzine&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-ommezzine&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-liard-gamma-86.vercel.app/api?username=abir-ommezzine&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-liard-gamma-86.vercel.app/api/top-langs/?username=abir-ommezzine&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abir-ommezzine&theme=tokyonight&hide_border=true)
