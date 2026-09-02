@@ -24,7 +24,7 @@ Also: benchmarking agentic dev frameworks (Spec Kit, BMAD, SAFe Agentic Workflow
 <a href="https://github.com/abir-ommezzine/stock_market_dashboard"><img src="https://github-readme-stats-liard-gamma-86.vercel.app/api/pin/?username=abir-ommezzine&repo=stock_market_dashboard&theme=tokyonight&hide_border=true" /></a>
 </p>
 <p align="left">
-<a href="https://github.com/soltan-mohamed/SourcingAppTalan"><img src="https://github-readme-stats-liard-gamma-86.vercel.app/api/pin/?username=soltan-mohamed&repo=SourcingAppTalan&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/abir-ommezzine/SourcingAppTalan"><img src="https://github-readme-stats-liard-gamma-86.vercel.app/api/pin/?username=abir-ommezzine&repo=SourcingAppTalan&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 - **AI Chatbot for ENSI Robotics Club** : RAG-powered chatbot over internal docs, using LangChain + ChromaDB ([repo](https://github.com/abir-ommezzine/Chatbot-ARE-Association-Robotique-ENSI))
